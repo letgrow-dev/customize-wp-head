@@ -1,0 +1,97 @@
+# Copyright (C) 2024 LetGrow
+# This file is distributed under the MIT.
+msgid ""
+msgstr ""
+"Project-Id-Version: Set custom head and body scripts 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/letgrow-head-and-body\n"
+"Last-Translator: Marcin Zawada <marcin.zawada@letgrow.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-29T13:00:20+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: letgrow-head-and-body\n"
+
+#. Plugin Name of the plugin
+#: letgrow-head-and-body.php
+msgid "Set custom head and body scripts"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: letgrow-head-and-body.php
+msgid "https://letgrow.pl/wordpress/plugins/letgrow-head-and-body"
+msgstr ""
+
+#. Description of the plugin
+#: letgrow-head-and-body.php
+msgid "Adds a \"Custom Integrations\" page to the \"Settings\" menu, which allows you to set content for the <code>head</code> tag or add content before the <code>body</code> tag."
+msgstr ""
+
+#. Author of the plugin
+#: letgrow-head-and-body.php
+msgid "LetGrow"
+msgstr ""
+
+#. Author URI of the plugin
+#: letgrow-head-and-body.php
+msgid "https://letgrow.pl"
+msgstr ""
+
+#: letgrow-head-and-body.php:177
+#: letgrow-head-and-body.php:178
+#: templates/admin-page.php:16
+msgid "Custom integrations"
+msgstr ""
+
+#: templates/admin-page.php:10
+msgid "Data has been saved."
+msgstr ""
+
+#: templates/admin-page.php:12
+msgid "Hide message"
+msgstr ""
+
+#: templates/admin-page.php:21
+msgid "Allows you to set your own content in the <code>&lt;head&gt;</code> tag and before the <code>&lt;body&gt;</code> tag. This is useful for setting up Google Analytics code or verifying GSC (Google Search Console) and other integrations."
+msgstr ""
+
+#: templates/admin-page.php:24
+msgid "Custom integrations allow you to insert code that integrates the site with any external service."
+msgstr ""
+
+#: templates/admin-page.php:30
+#: templates/admin-page.php:38
+msgid "Content of the <code>&lt;head&gt;</code> tag"
+msgstr ""
+
+#: templates/admin-page.php:35
+msgid "Please be aware that if you input incorrect data, your browser will automatically push it to the <code>&lt;body&gt;</code> tag. "
+msgstr ""
+
+#: templates/admin-page.php:49
+#: templates/admin-page.php:54
+msgid "Content of the <code>&lt;body&gt;</code> tag"
+msgstr ""
+
+#: templates/admin-page.php:63
+#: templates/admin-page.php:67
+msgid "Cleanup on deactivate"
+msgstr ""
+
+#: templates/admin-page.php:72
+msgid "Clear all plugin data when plugin is deactivated"
+msgstr ""
+
+#: templates/admin-page.php:79
+msgid "Troubleshooting"
+msgstr ""
+
+#: templates/admin-page.php:80
+msgid "If you don't see provided data in website content make sure that your theme supports <a href=\"https://developer.wordpress.org/themes/advanced-topics/plugin-api-hooks/\">Plugin API Hooks</a>"
+msgstr ""
+
+#: templates/admin-page.php:89
+msgid "Save changes"
+msgstr ""
