@@ -1,10 +1,6 @@
 # Wordpers plugin - Set custom head and body scripts
 
-This plugin allows for custom integrations by easily setting the head and body sections of your WordPress site.
-
-The plugin is very simple and straightforward, ensuring safety and reliability. The code is open-source, allowing you to verify it yourself.
-
-You can use it to add google analytics or google search console tags.
+This plugin allows for custom integrations by easily setting the head and body sections of your WordPress site. We keep it simple and straightforward, ensuring safety and reliability. The code is open-source, allowing you to verify it yourself. You can use it to add google analytics or google search console tags.
 
 ## When to use this plugin?
 
