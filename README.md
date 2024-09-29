@@ -30,17 +30,17 @@ Leave a PR or create an issue, don't hesistate!
 
 - [x] - attach custom content to head tag
 - [x] - attach custom content before body tag
-- [x] - fully integrated wordpress look, no frills
+- [x] - fully integrated WordPress look, no frills
 - [x] - multilangual, supported languages: pl-PL, uk-UA, en-US
 - [x] - cleanup on deactivation
 - [x] - separete client and admin code
 - [x] - Add troubleshooting section
 - [ ] - help tabs - nice explanations for non technical users
-- [ ] - enforce Wordpres coding standards: https://developer.wordpress.org/coding-standards/wordpress-coding-standards/
+- [ ] - enforce WordPress coding standards: https://developer.wordpress.org/coding-standards/wordpress-coding-standards/
 
 ## Support
 
-Requires at least wordpress v6.4.3
+Requires at least WordPress v6.4.3
 
 ## Uninstall
 
