@@ -1,4 +1,4 @@
-# Set custom head and body scripts
+# Wordpers plugin - Set custom head and body scripts
 
 This plugin allows for custom integrations by easily setting the head and body sections of your WordPress site.
 
