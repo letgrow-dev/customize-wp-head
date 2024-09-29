@@ -55,17 +55,11 @@ docker compose run --rm wp-cli i18n make-pot wp-content/plugins/letgrow-head-and
 ##### УкраЇнські
 
 ```
-msgfmt -o languages/letgrow-head-and-body-uk.mo languages/letgrow-head-and-body-uk.pot
+msgfmt -o languages/letgrow-head-and-body-uk.mo languages/letgrow-head-and-body-uk.po
 ```
 
 ##### Polski
 
 ```
-msgfmt -o languages/letgrow-head-and-body-pl_PL.mo languages/letgrow-head-and-body-pl_PL.pot
-```
-
-##### English
-
-```
-msgfmt -o languages/letgrow-head-and-body-en_US.mo languages/letgrow-head-and-body-en_US.pot
+msgfmt -o languages/letgrow-head-and-body-pl_PL.mo languages/letgrow-head-and-body-pl_PL.po
 ```
