@@ -42,10 +42,6 @@ Leave a PR or create an issue, don't hesistate!
 
 Requires at least WordPress v6.4.3
 
-## Uninstall
-
-Beware as this plugin will fully cleanup itself before uninstall and you will lose all saved data.
-
 ## Development
 
 ### Localization
